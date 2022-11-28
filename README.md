@@ -1,6 +1,16 @@
 # Vue 3 TS boilerplate
 
-This README outlines the details of collaborating on this VueJS application.
+Boilerplate Vue 3 app, including:
+- [Vue 3](https://vuejs.org/guide/introduction.html)
+- [Vite](https://vitejs.dev/guide/)
+- [Pinia](https://pinia.vuejs.org/introduction.html)
+- [Vue Router](https://router.vuejs.org/guide/)
+- [Vue i18n](https://kazupon.github.io/vue-i18n/started.html)
+- [Axios](https://axios-http.com/fr/docs/intro)
+- [Sass](https://sass-lang.com/documentation)
+- [Prettier](https://prettier.io/docs/en/index.html)
+- [ESlint](https://eslint.org/docs/latest/user-guide/configuring/)
+- [Jest](https://jestjs.io/docs/getting-started)
 
 ## Prerequisites
 
@@ -14,13 +24,13 @@ You will need the following things properly installed on your computer.
 Clone the repository:
 
 ```bash
-git clone https://github.com/talentview/?.git
+git clone https://github.com/aautcq/vue3-ts-boilerplate.git
 ```
 
 Packages installation with NPM:
 
 ```bash
-cd ?
+cd vue3-ts-boilerplate
 npm run install
 ```
 
@@ -55,11 +65,3 @@ npm run build
 ### Deploying
 
 The build is available inside the 'dist' folder.
-
-## Further Reading / Useful Links
-
-- [Vite](https://vitejs.dev/guide/)
-- [Vue 3](https://vuejs.org/guide/introduction.html)
-- [Pinia](https://pinia.vuejs.org/introduction.html)
-- [Vue-i18n](https://kazupon.github.io/vue-i18n/started.html)
-- [Sass](https://sass-lang.com/documentation)
